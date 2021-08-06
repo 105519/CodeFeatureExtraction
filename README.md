@@ -6,11 +6,11 @@ In folder *data*, there are two data processing code files and few data for play
 
 You can play the demo using the following command:
 
-'''
+```
 cd data
 python ENRE.py
 python DataProcess.py
-'''
+```
 
 Then you can see the processed data in folder *py150_new*
 
