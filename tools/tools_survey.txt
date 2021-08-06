@@ -1,0 +1,16 @@
+Code Dependency Extraction Tools
+
+Depends
+Link: https://github.com/multilang-depends/depends
+Advantage: Supports 5 languages(cpp, java, ruby, python, pom); 3 levels of granularity(level of folder, file, method); 5 output formats(json, xml, excel, dot, plantuml)
+Disadvantage: Have bug on file granularity: Wrongly judge that two files are related, when they both have a global variable with the same name
+
+ENRE (Selected to use)
+Link: https://github.com/jinwuxia/ENRE
+Advantage: The output graph is very detailed: 4 types of nodes includes (level of folder, file, method and variable); 8 types of edges(import, call, use, return, parameter and so on)
+Disadvantage: Only supports 2 languages(python, go); 3 output formats(json, xml, dot)
+
+Rexdep
+Link: https://github.com/itchyny/rexdep
+Advantage: This is a special tool which extracts code dependency by finding regular expressions in code. Thus it deeply supports customization.
+Disadvantage: It can only roughly extract dependency relation.(for example, 'import numpy' in comment)

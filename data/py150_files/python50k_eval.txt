@@ -1,0 +1,12 @@
+data/HenryHu/pybbs/Config.py
+data/HenryHu/pybbs/digest.py
+data/HenryHu/pybbs/xmppserver.py
+data/IDSIA/brainstorm/brainstorm/layers/batch_normalization_layer.py
+data/IDSIA/brainstorm/brainstorm/scorers.py
+data/IDSIA/brainstorm/brainstorm/tests/test_schedules.py
+data/IDSIA/brainstorm/docs/conf.py
+data/IDSIA/sacred/sacred/config/config_summary.py
+data/IDSIA/sacred/tests/test_config/test_config_dict.py
+data/IEEERobotics/bot/bot/follower/pid.py
+data/IEEERobotics/bot/bot/interface/cli.py
+data/IEEERobotics/bot/tests/test_servo.py
