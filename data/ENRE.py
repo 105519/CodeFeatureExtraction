@@ -1,3 +1,8 @@
+'''
+Calls the ENRE tool for each item in the folder 'py150_files'，
+and saves the output of ENRE to the folder 'py150_structures'
+'''
+
 import os
 import time
 
