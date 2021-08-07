@@ -2,9 +2,9 @@
 
 # Data Process
 
-In folder *data*, there are two data processing code *data/ENRE.py* and *data/DataProcess.py* and few data in *data/py150_files* for playing a demo.
+In folder *data*, there are two data processing code *ENRE.py* and *DataProcess.py* and few data in folder *py150_files* for playing a demo.
 
-In folder *data/py150_files*, there is another README file that introduces the data set.
+In folder *py150_files*, there is another README file that introduces the data set.
 
 You can play the demo using the following command:
 
