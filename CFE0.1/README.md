@@ -7,7 +7,7 @@ Data&code see folder CFEv2.0
 ### quick run
 
 ```
-cd CFEv2.0/py150_files
+cd CFE/py150_files
 unzip washed_python150k.zip
 cd ../src
 jupyter notebook (run SGC-BERT.ipynb)
@@ -16,7 +16,7 @@ jupyter notebook (run SGC-BERT.ipynb)
 ### full run
 
 ```
-cd CFEv2.0/py150_files
+cd CFE/py150_files
 unzip data.zip
 cd ../src/parser
 bash build.sh
@@ -29,7 +29,7 @@ jupyter notebook (run SGC-BERT.ipynb)
 ### run baseline(quick run)
 
 ```
-cd CFEv2.0/py150_files
+cd CFE/py150_files
 unzip washed_python150k.zip
 cd ../src
 jupyter notebook (run CODE-BERT.ipynb)
@@ -38,7 +38,7 @@ jupyter notebook (run CODE-BERT.ipynb)
 ### run baseline(full run)
 
 ```
-cd CFEv2.0/py150_files
+cd CFE/py150_files
 unzip data.zip
 cd ../src/parser
 bash build.sh
