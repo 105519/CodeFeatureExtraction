@@ -21,10 +21,18 @@ topics = ['3d', 'algorithm', 'android', 'ansible', 'api', 'aws',
 'testing', 'twitter', 'ubuntu', 'vim', 'webapp', 'windows', 'xml']
 
 # tokens, the more the better
-tokens = ['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',
-          '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',
-          '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',
-          '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']
+# tokens = ['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',
+#           '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',
+#           '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',
+#           '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']
+
+tokens = ['ef305c43723576a6ce4cdac02879a39af44d5293', 'c88f19fbdfcf60e73b1a2cc392b8688b6700c716',
+      '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', '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',
+      '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', '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',
+      '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', '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',
+      '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', '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',
+      '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']
+
 def get_token():
     return tokens[random.randint(0, len(tokens) - 1)]
 
